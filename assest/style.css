@@ -72,6 +72,19 @@ nav li {
     text-align: center;
 }
 
+.avatar {
+    text-align: center;
+    
+}
+
+.avatar img {
+    margin: 100px auto -60px auto;
+    border-radius: 50%;
+    width: 250px;
+    height: 250px;
+    border: 3px solid var(--secondary);
+  }
+
 .content-section {
     display: flex;
     justify-content: center;
@@ -128,15 +141,12 @@ article .image {
 #contact-me ul {
     display: flex;
     justify-content: space-between;
-    gap: 120 ;
+    gap: 50px ;
     flex-wrap: wrap;
 }
 
-/* media query 980px */
-@media screen and (max-width: 980px) {
 
-    
-}
+
 
 /* media query 980px */
 @media screen and (max-width: 575px) {
