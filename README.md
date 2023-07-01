@@ -4,8 +4,7 @@
 # Web page refactor
 
 ## Description
-develop a portfolio project from scratch using plain html and css.
-i used media query to display the web page correctly on smaller devices.
+Developed a portfolio project from scratch using plain HTML and CSS. Utilized media queries to ensure correct display of the web page on smaller devices.
 ## Screenshot
 
 ![alt screenshot](https://github.com/jbarberisv/jbv-portfolio/blob/main/assest/images/web2.png?raw=true)
